@@ -42,3 +42,19 @@ C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests
 C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.Properties.Resources.resources
 C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\GuiTests.csproj.GenerateResource.Cache
 C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\GuiTests.csprojResolveAssemblyReference.cache
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\obj\Debug\Structura.GuiTests.Properties.Resources.resources
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\obj\Debug\GuiTests.csproj.GenerateResource.Cache
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\chromedriver.exe
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\IEDriverServer.exe
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\Structura.GuiTests.dll.config
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\Structura.GuiTests.XML
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\Structura.GuiTests.dll
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\Structura.GuiTests.pdb
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\nunit.framework.dll
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\WebDriver.dll
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\WebDriver.Support.dll
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\nunit.framework.xml
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\WebDriver.xml
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\bin\Debug\WebDriver.Support.xml
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\obj\Debug\Structura.GuiTests.dll
+C:\Users\sboreisha\Source\Repos\SeleniumTest\GuiTests\obj\Debug\Structura.GuiTests.pdb

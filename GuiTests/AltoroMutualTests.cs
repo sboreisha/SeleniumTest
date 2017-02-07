@@ -2,7 +2,6 @@
 using System.Globalization;
 using System.Text;
 using System.Threading;
-using FluentAssertions;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using Structura.GuiTests.PageObjects;

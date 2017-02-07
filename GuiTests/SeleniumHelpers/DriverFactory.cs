@@ -7,7 +7,6 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Remote;
 using Structura.GuiTests.Utilities;
-using Tests.SeleniumHelpers;
 
 namespace Structura.GuiTests.SeleniumHelpers
 {

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Structura.GuiTests</name>
+    </assembly>
+    <members>
+        <member name="M:Structura.GuiTests.AltoroMutualTests.#ctor(System.String,System.String,System.String,System.String,System.String)">
+             <summary>
+            
+             </summary>
+             <param name="browser"></param>
+             <param name="version"></param>
+             <param name="os"></param>
+             <param name="deviceName"></param>
+             <param name="deviceOrientation"></param>
+        </member>
+        <member name="T:Structura.GuiTests.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Structura.GuiTests.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Structura.GuiTests.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Structura.GuiTests.SeleniumHelpers.DriverToUse">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:Tests.PageObjects.LoginPage.GoToGoogle">
+            <summary>
+            JQuery selector example
+            </summary>
+        </member>
+    </members>
+</doc>
