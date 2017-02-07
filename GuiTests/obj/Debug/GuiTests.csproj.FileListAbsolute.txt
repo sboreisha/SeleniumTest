@@ -1,0 +1,44 @@
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\chromedriver.exe
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\IEDriverServer.exe
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.dll.config
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.pdb
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\nunit.framework.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.Support.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.pdb
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.xml
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\nunit.framework.xml
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.xml
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.Support.xml
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.dll
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.pdb
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.XML
+C:\Users\sboreisha\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\GuiTests.csprojResolveAssemblyReference.cache
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\chromedriver.exe
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\IEDriverServer.exe
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.dll.config
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.XML
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\Structura.GuiTests.pdb
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\nunit.framework.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.Support.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.pdb
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.xml
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.pdb
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\FluentAssertions.Core.xml
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\nunit.framework.xml
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.xml
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\bin\Debug\WebDriver.Support.xml
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.dll
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.pdb
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\Structura.GuiTests.Properties.Resources.resources
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\GuiTests.csproj.GenerateResource.Cache
+C:\old pc\Source\Repos\TestProjectSelenium\GuiTests\obj\Debug\GuiTests.csprojResolveAssemblyReference.cache
