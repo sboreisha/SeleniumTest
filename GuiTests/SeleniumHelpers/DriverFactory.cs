@@ -97,9 +97,9 @@ namespace Structura.GuiTests.SeleniumHelpers
                     break;
             }
             desiredCapabilities.IsJavaScriptEnabled = true;
-            var remoteDriver = new ExtendedRemoteWebDriver(new Uri(gridUrl), desiredCapabilities, TimeSpan.FromSeconds(180));
-            var nodeHost = remoteDriver.GetNodeHost();
-            Debug.WriteLine("Running tests on host " + nodeHost);
+            var remoteDriver = new RemoteWebDriver(new Uri(gridUrl), desiredCapabilities, TimeSpan.FromSeconds(180));
+           // var nodeHost = remoteDriver.GetNodeHost();
+            //Debug.WriteLine("Running tests on host " + nodeHost);
             return remoteDriver;
         }
     }

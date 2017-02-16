@@ -37,7 +37,7 @@ namespace Tests.PageObjects
         */
         public void GoToGoogle()
         {
-            _driver.Navigate().GoToUrl("https://www.youtube.com/watch?v=Pt2vv1bVIbU");
+            _driver.Navigate().GoToUrl("https://www.wikipedia.org");
         }
         public void LoginAsAdmin(string baseUrl)
         {

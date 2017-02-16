@@ -40,5 +40,19 @@
             JQuery selector example
             </summary>
         </member>
+        <member name="M:Titanium.Web.Proxy.Examples.Basic.ProxyTestController.OnCertificateValidation(System.Object,Titanium.Web.Proxy.EventArguments.CertificateValidationEventArgs)">
+            <summary>
+            Allows overriding default certificate validation logic
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Titanium.Web.Proxy.Examples.Basic.ProxyTestController.OnCertificateSelection(System.Object,Titanium.Web.Proxy.EventArguments.CertificateSelectionEventArgs)">
+            <summary>
+            Allows overriding default client certificate selection logic during mutual authentication
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
     </members>
 </doc>
